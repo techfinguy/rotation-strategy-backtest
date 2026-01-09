@@ -7,6 +7,10 @@ This project implements a simple monthly rotation strategy between two assets us
 - Capital is allocated to the asset with higher return
 - Compared against buy-and-hold strategy
 
+## for dataframes 
+- visit investing.com
+- visit yahoofinance.com
+
 ## How to run
 1. Install dependencies
 2. Update Excel file paths
